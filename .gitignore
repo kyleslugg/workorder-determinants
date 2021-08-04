@@ -1,0 +1,10 @@
+__pycache__
+.ipynb_checkpoints
+/address_points
+/NYCHA_Buildings
+/NYCHA_Developments
+address_points
+NYCHA_Buildings
+NYCHA_Developments
+*.xlsx
+TIMECLOCKS.csv
